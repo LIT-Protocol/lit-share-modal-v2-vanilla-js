@@ -8488,14 +8488,16 @@ lit-js-sdk@^1.1.152, lit-js-sdk@^1.1.153:
     uint8arrays "^3.0.0"
     utf-8-validate "^5.0.8"
 
-lit-share-modal@^0.1.40:
-  version "0.1.40"
-  resolved "https://registry.yarnpkg.com/lit-share-modal/-/lit-share-modal-0.1.40.tgz#1e36e70737a97fe0d89c8cb5fc439c69d6528133"
-  integrity sha512-SxNdvwzpGzFODLOp9rH6GYQ/AjIctgN7sWQGwORg+MRrmYOZN97Amkdf7sYeeDdfvXbZpElyfHSx7LDpknIqcg==
+lit-share-modal@^0.1.54:
+  version "0.1.54"
+  resolved "https://registry.yarnpkg.com/lit-share-modal/-/lit-share-modal-0.1.54.tgz#4516961041fa2d9c3117fdd135d5e888971e89e5"
+  integrity sha512-g0Cix8t8MiiTKPJL3pGrC3d9uBVn9n0mnePrL6OPZIows7FDAEk7Nnh+CTd0a6hD4//Ihv1tFSJXqoivEBqLWg==
   dependencies:
     ethers "^5.5.4"
     events "^3.3.0"
     lit-js-sdk "^1.1.153"
+    react "^17.0.2"
+    react-dom "^17.0.2"
     react-select "^5.2.2"
     react-windowed-select "^3.1.2"
     util "^0.12.4"
