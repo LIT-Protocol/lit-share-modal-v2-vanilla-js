@@ -8459,10 +8459,10 @@ lit-connect-modal@^0.1.8:
   dependencies:
     micromodal "^0.4.10"
 
-lit-js-sdk@^1.1.152, lit-js-sdk@^1.1.153:
-  version "1.1.153"
-  resolved "https://registry.yarnpkg.com/lit-js-sdk/-/lit-js-sdk-1.1.153.tgz#b3f893a9de8784d186d9683d4e78af69809dcfdc"
-  integrity sha512-L0jcBhqH6E8BCCKVYLHTJHbMvkCj8XinbewXU8Vpk1BJ9JbySvRAgAtSSYE4HzKMSDv/PiZ4Piwsx9p89fGV5g==
+lit-js-sdk@^1.1.156:
+  version "1.1.156"
+  resolved "https://registry.yarnpkg.com/lit-js-sdk/-/lit-js-sdk-1.1.156.tgz#26d6233048da74137700b652ad274a7444c9d13e"
+  integrity sha512-a68VVolSgsjzviG9dCo0K+YhTGxpARXx5wmhol+HNMyLxhgyBOsrGJACGzifFgSVthY2G2X9VSr1JYRxt9Q3AA==
   dependencies:
     "@ethersproject/abi" "^5.5.0"
     "@ethersproject/bytes" "^5.5.0"
@@ -8488,14 +8488,14 @@ lit-js-sdk@^1.1.152, lit-js-sdk@^1.1.153:
     uint8arrays "^3.0.0"
     utf-8-validate "^5.0.8"
 
-lit-share-modal@^0.1.54:
-  version "0.1.54"
-  resolved "https://registry.yarnpkg.com/lit-share-modal/-/lit-share-modal-0.1.54.tgz#4516961041fa2d9c3117fdd135d5e888971e89e5"
-  integrity sha512-g0Cix8t8MiiTKPJL3pGrC3d9uBVn9n0mnePrL6OPZIows7FDAEk7Nnh+CTd0a6hD4//Ihv1tFSJXqoivEBqLWg==
+lit-share-modal@^0.1.63:
+  version "0.1.63"
+  resolved "https://registry.yarnpkg.com/lit-share-modal/-/lit-share-modal-0.1.63.tgz#caf124a89a542f9aa7bcaed534b3e23ed12d39ee"
+  integrity sha512-2rIm6uOoAINc7+W/NAreJuf6C1pIDxi8H6FQsxcOzGRHHxp0ISJa8RY/hyyyhKmpcbPOugTjvcmMRN8JKgtpnA==
   dependencies:
     ethers "^5.5.4"
     events "^3.3.0"
-    lit-js-sdk "^1.1.153"
+    lit-js-sdk "^1.1.156"
     react "^17.0.2"
     react-dom "^17.0.2"
     react-select "^5.2.2"
