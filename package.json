@@ -1,6 +1,6 @@
 {
   "name": "lit-share-modal-v2-vanilla-js",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "dependencies": {
     "@babel/core": "7.12.3",
     "@pmmmwh/react-refresh-webpack-plugin": "0.4.3",
