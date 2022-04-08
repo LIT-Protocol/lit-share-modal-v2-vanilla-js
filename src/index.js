@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import { ShareModal } from "lit-share-modal";
+import ShareModal from "lit-share-modal";
 
 // buffer of DOM elements rendering React components
 var nodes = [];
