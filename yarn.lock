@@ -8625,10 +8625,10 @@ lit-js-sdk@^1.1.176, lit-js-sdk@^1.1.177:
     uint8arrays "^3.0.0"
     utf-8-validate "^5.0.8"
 
-lit-share-modal@^0.1.92:
-  version "0.1.92"
-  resolved "https://registry.yarnpkg.com/lit-share-modal/-/lit-share-modal-0.1.92.tgz#15a963ac5998aa5fa36c193f6556e0a904901c67"
-  integrity sha512-CRbJorpHFVGPlnekKJKOq8mHisIDPX/NmogqSc28zmLOqH6IBFFN1WEDCp1R5IZGf/HDwXXqBKwnfMLIZwet8g==
+lit-share-modal@^0.1.93:
+  version "0.1.93"
+  resolved "https://registry.yarnpkg.com/lit-share-modal/-/lit-share-modal-0.1.93.tgz#e7edadee9521749e0ac8745fe4f07796f6bfca0c"
+  integrity sha512-3gOIxyDgmoxlE/72QvJJgrQoUr5gm+VQdkIQa8s5Ymc5LU/6k1tRwtqbzsa5PaC2JBPNcEFlAXXVJ2VzAqO6gg==
   dependencies:
     "@originjs/vite-plugin-commonjs" "^1.0.3"
     ethers "^5.5.4"
